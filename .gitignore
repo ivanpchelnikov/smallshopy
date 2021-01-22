@@ -5,6 +5,11 @@
 *.suo
 *.user
 *.sln.docstates
+.vs
+packages
+PublishProfiles
+serviceDependencies.*
+ServiceDependencies
 
 # Build results
 
